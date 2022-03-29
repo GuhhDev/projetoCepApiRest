@@ -1,2 +1,2 @@
 # projetoCepApiRest
-Projeto visa mostrar uma simples consulta à uma API REST usando Spring Boot!
+Projeto visa revisar meus estudos em algumas frameworks do Java e mostrar uma simples consulta à uma API REST usando Spring Boot!
